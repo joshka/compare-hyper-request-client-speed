@@ -1,6 +1,6 @@
 use axum::{routing::get, Router};
 use color_eyre::Result;
-use test_reqwest_speed::{
+use compare_hyper_request_client_speed::{
     cli::{self, Cli},
     tls,
 };
