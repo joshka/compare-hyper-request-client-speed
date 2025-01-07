@@ -1,4 +1,4 @@
-# Test Reqwest Speed
+# Test `Reqwest` Client vs `Hyper` client Speed
 
 Compare the speed of reqwest client to a hyper client.
 
